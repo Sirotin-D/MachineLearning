@@ -3,7 +3,7 @@ __Репозиторий__ создан для выполнения работ �
 Выполнение работ предполагает применение алгоритмов задачи классификации и линейной регрессии к выбранному датасету.
 
 ## Датасет и название задачи
-![alt text](https://molgroupcareers.info/images/molgroup/content/top_ten_tips/fake-job-offers.jpg)
+![Fake Job Description](https://molgroupcareers.info/images/molgroup/content/top_ten_tips/fake-job-offers.jpg)
 
 Для выполнения работ выбран датасет [Real/Fake Job Description Prediction](https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction).
 
